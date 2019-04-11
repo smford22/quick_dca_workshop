@@ -1,0 +1,10 @@
+name: scottford_windows_baseline
+title: <yourcompany> Windows Security Baseline
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: A Baseline Compliance Profile for Windows
+version: 0.1.0
+supports:
+  - os-family: windows
